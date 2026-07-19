@@ -20,12 +20,9 @@ Raw Flickr metadata is fragmented across multiple export formats and rarely cons
 
 ## Repository contents
 
-- `notebooks/` — cleaning, EDA, and statistical testing notebooks
-- `report/` — final written report (PDF)
-- `data/` — sample data only (full dataset not redistributed; see note below)
+- `presentation slides/` — presentation on analysis findings and insights
 
-> Note: the full raw dataset is not included in this repo due to size/redistribution
-> constraints. A small sample is provided to illustrate structure.
+> Note: Cannot upload the notebooks due to the file size.
 
 ## My contribution
 
